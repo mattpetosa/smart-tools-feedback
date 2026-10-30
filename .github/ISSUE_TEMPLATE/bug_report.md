@@ -5,7 +5,7 @@ title: "[Bug] "
 labels: bug
 ---
 
-**Which app?** (Deploy / Recovery / License Audit / Project Mover / Project Backup / Object Export / License Cleaner / IQ Filler / License Extension)
+**Which app?** (Deploy / Recovery / License Audit / Project Migration / Project Backup / Object Export / License Cleaner / IQ Filler / License Extension)
 
 **What happened?**
 
